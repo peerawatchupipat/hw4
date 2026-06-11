@@ -18,6 +18,7 @@ end
 group :development do
   gem "tabulo"
   gem "web-console"
+end
 
 group :production do
   gem "pg"
